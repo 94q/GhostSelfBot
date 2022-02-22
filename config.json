@@ -1,6 +1,6 @@
 {
     "token": "YOUR TOKEN HERE",
-    "prefix": ".", // prefix dont change if u want to use scripts from github.com/5mf/GhostSelfBot-Scripts
+    "prefix": ".",
     "delete_timeout": 15,
     "theme": "sigma",
     "riskmode": false,
@@ -53,7 +53,7 @@
     },
     "api_keys": {
         "tenor": "",
-        "alexflipnote": "dontchangethis" // dont change this is for image commands.
+        "alexflipnote": "dontchangethis" 
     },
     "afkmode": {
         "enabled": false,
