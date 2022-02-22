@@ -82,7 +82,7 @@ Feel free to use any of the code found in this project for your own project.
 
 
 > ### 👻 Useful Links  
-> - Support Discord : https://discord.gg/qgbXvhDABY
+> - Support Discord : https://discord.gg/3l
 > - Get your Discord token : https://youtu.be/YEgFvgg7ZPI  
-> - Ghost Scripts Repo ( Custom Cmds ) : https://github.com/5mf/GhostSelfBot-Scripts
+> - Ghost Scripts Repo ( Custom Cmds ) : https://github.com/94q/GhostSelfBot-Scripts
 
